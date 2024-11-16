@@ -1,16 +1,14 @@
-## Hi there 👋
+### bem vindos ao my perfil 👀
 
-<!--
-**anacarolina333/anacarolina333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Carolina
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Aprendendo a linguagem Javascript
+- Utilizo esse espaço para organizar e compartilhar meus projetos criados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Entre em contato comigo pelo 📫
+
+ a.carolsilvaprado@gmail.com
+
+![](https://media1.tenor.com/m/NhkobvY3XmcAAAAd/agatha-nunes.gif)
+ 
